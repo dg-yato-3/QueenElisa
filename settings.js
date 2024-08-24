@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;==wZLp0Vk5mN2pXM6JlaQNlTwVDNkhTMrJXUrxUbUZVQBtUculGVvpWdMR2Sjo0USFFVW5kSpwd=89023429481',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -19,20 +19,20 @@ module.exports = {
 
 ANONYMOUS`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
+  MONGODB_URL: 'mongodb+srv://dreamguyskiyo:Ryv6BxyGDMTjSBB0@cluster0.5utbusu.mongodb.net/', 
   PREFIX: './',
   LANGUAGE: 'EN',
   PORT: 3000,
-  BOT_NAME: 'Hacker-X',
-  OWNER_NAME: 'ANONYMOUS',
-  OWNER_NUMBER: '2349018371490',
-  SUDO: '2349018371490',
+  BOT_NAME: 'Rehman',
+  OWNER_NAME: 'Rehman',
+  OWNER_NUMBER: '18492432098',
+  SUDO: '18492432098',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© ANONYMOUS',
-  STICKER_AUTHOR: 'ANONYMOUS',
-  STICKER_PACK: 'ANONYMOUS',
+  CAPTION: 'Rehman',
+  STICKER_AUTHOR: 'Rehman',
+  STICKER_PACK: 'Rehman',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90,
   OWNER_R_EMOJI: '🌹',
